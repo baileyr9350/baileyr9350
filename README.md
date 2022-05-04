@@ -1,6 +1,6 @@
 Hi, I’m @baileyr9350 !
-- 👀 I’m interested in material science (specifically ceramics), dancing, dog and horse training
-- 🌱 I’m currently learning the very basics of Javascript
+- 👀 I’m interested in material science (specifically ceramics), dance, and animal behavior
+- 🌱 I’m currently working through The Odin Project
 
 
 <!---
